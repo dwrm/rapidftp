@@ -15,8 +15,8 @@
 	</developers>
 	<scm>
 		<url>git@github.com:dwrm/rapidftp.git</url>
-		<connection>scm:git:git@github.com:dwrm/rapidftp.git</connection>
-		<developerConnection>scm:git:git@github.com:dwrm/rapidftp.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com/dwrm/rapidftp.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/dwrm/rapidftp.git</developerConnection>
 		<tag>rapidftp-1.0.1</tag>
 	</scm>
 	<licenses>
