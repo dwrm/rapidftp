@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.dwrm.rapidftp</groupId>
 	<artifactId>rapidftp</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>rapidftp</name>
 	<description>server and client ftp sftp</description>
 	<url>https://github.com/dwrm</url>
@@ -17,7 +17,7 @@
 		<url>https://github.com/dwrm/rapidftp/</url>
 		<connection>scm:git:ssh://git@github.com/dwrm/rapidftp.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/dwrm/rapidftp.git</developerConnection>
-		<tag>@{project.version}</tag>
+		<tag>rapidftp-1.0.0</tag>
 	</scm>
 	<licenses>
 		<license>
