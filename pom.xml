@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.dwrm.rapidftp</groupId>
 	<artifactId>rapidftp</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>rapidftp</name>
 	<description>server and client ftp sftp</description>
 	<url>https://github.com/dwrm</url>
@@ -50,8 +50,6 @@
 		<maven-release-plugin.version>2.5.3</maven-release-plugin.version>
 		<nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
 		<maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
-		<gpg.homedir>/Users/dwrm/.gnupg</gpg.homedir>
-		<gpg.homedir>dwrm@20AD92</gpg.homedir>
 	</properties>
 	<build>
 		<plugins>
